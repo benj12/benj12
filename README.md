@@ -1,5 +1,10 @@
-## About Me
+# About Me
+- My primary interests are mobile app development, web development, math and physics.
+- Previously worked two internships for the Navy and as an Implementation Consultant for Siemens DISW.
+- Currently work as a Software Development Engineer for Siemens DISW.
 
+# Links
+- [LinkedIn](https://www.linkedin.com/in/benjaminwilliamscs)
 <!--
 **benj12/benj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
